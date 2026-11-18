@@ -65,6 +65,13 @@
       "description": "Build a REST API with FastAPI, including CRUD routes, data validation, and appropriate HTTP responses.",
       "path": "assignments/building-rest-apis-with-fastapi",
       "dueDate": "2026-11-25"
+    },
+    {
+      "id": "building-a-web-app-with-fastapi",
+      "title": "Building a Web App with FastAPI",
+      "description": "Build a task-management web interface with HTML, CSS, and JavaScript that consumes a FastAPI REST API.]",
+      "path": "assignments/building-a-web-app-with-fastapi",
+      "dueDate": "2026-11-25"
     }
   ]
 }
